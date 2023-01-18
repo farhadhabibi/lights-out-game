@@ -1,0 +1,10 @@
+.Light {
+    width: 90px;
+    height: 90px;
+    background-color: gray;
+    border: 1px solid lightgray;
+    transition: background-color 1.5s ease
+}
+.lit {
+    background-color: white;
+}
